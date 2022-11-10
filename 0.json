@@ -1,0 +1,16 @@
+{
+  "Modules": [
+    {
+      "Name": "OnlineSubsystemPico",
+      "Type": "Runtime",
+      "LoadingPhase": "Default",
+      "WhitelistPlatforms": [
+        "Win64",
+        "Android"
+      ],
+      "BlacklistPlatforms": [
+        "PS4"
+      ]
+    }
+  ]
+}

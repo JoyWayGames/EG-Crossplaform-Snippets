@@ -1,0 +1,22 @@
+{
+  "Plugins": [
+    {
+			"Name": "SteamVR",
+			"Enabled": true,
+			"BlacklistPlatforms": [
+				"PS4",
+				"Android"
+			],
+			"SupportedTargetPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			],
+			"WhitelistPlatforms": [
+				"Win32",
+				"Win64",
+				"Linux"
+			]
+    }
+  ]
+}
